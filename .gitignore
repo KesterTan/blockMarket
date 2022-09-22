@@ -1,0 +1,29 @@
+# Logs
+logs
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
+
